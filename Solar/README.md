@@ -27,4 +27,4 @@ Input Parameters:
 - Minimum Irradiance.
 - Maximum Irradiance.
 
-**Please fork or star the work the work if you like the work.**
+**Please fork or star if you like the work.**
